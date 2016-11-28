@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Visual Customizer Builder PRO
+Plugin Name: Visual Customizer Builder for KIRKI
 Description: Create customizer fields with drag and drop options and with 27 custom fields.
 Version: 0.1
 Author: Ravi Shakya
