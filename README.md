@@ -52,6 +52,11 @@ Build your customizer without writing codes. With kirki and this plugin you can 
 
 * Condition logic on custom fields.
 
+## Installation
+* Upload this plugin to plugin's directory
+* Activate the plugin
+* Now a new menu will appear on the admin dashbosrd "Visual Customizer Builder"
+
 ## Requirement
 Note : This plugin requires [Kirki](https://wordpress.org/plugins/kirki/) to be installed first.
 
