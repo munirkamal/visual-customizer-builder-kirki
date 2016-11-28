@@ -7,3 +7,7 @@ Note : This plugin requires [Kirki](https://wordpress.org/plugins/kirki/) to be 
 
 ## Youtube Demo
 [Click Here](https://www.youtube.com/watch?v=HR79EnXFtg4)
+
+## Changelog
+0.1
+* Initial Release
